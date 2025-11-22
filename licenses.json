@@ -1,26 +1,14 @@
 [
   {
-    "key": "TVM001-ABCD-EFGH-IJKL",
-    "active": true,
-    "max_machines": 1,
-    "allowed_machines": [],
-    "expiry_date": "2025-12-31T23:59:59Z",
-    "created_date": "2024-01-01T00:00:00Z"
+    "key": "12345,
+    "active": true
   },
   {
-    "key": "TVM002-MNOP-QRST-UVWX",
-    "active": true,
-    "max_machines": 3,
-    "allowed_machines": [],
-    "expiry_date": "2025-12-31T23:59:59Z",
-    "created_date": "2024-01-01T00:00:00Z"
+    "key": "TVM002-MNOP-QRST-UVWX", 
+    "active": true
   },
   {
     "key": "TVM003-YZAB-CDEF-GHIJ",
-    "active": false,
-    "max_machines": 1,
-    "allowed_machines": [],
-    "expiry_date": "2024-01-01T00:00:00Z",
-    "created_date": "2023-01-01T00:00:00Z"
+    "active": false
   }
 ]
